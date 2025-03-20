@@ -1,0 +1,7 @@
+flask==2.3.3
+flask-cors==4.0.0
+diffusers==0.21.4
+transformers==4.34.1
+torch==2.1.0
+accelerate==0.23.0
+gunicorn==21.2.0 
